@@ -13,9 +13,7 @@ git clone https://github.com/Tushar-Sehgal/enhanced-pointer-nn-pytorch
 
 cd enhanced-pointer-nn-pytorch
 
-### Create and activate a virtual environment
-
-##### You can use venv or conda for creating virtual environments.
+### Create and activate a virtual environment using venv or conda.
 
 #### For example, using venv:
 
